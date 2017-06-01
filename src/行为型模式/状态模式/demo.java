@@ -1,7 +1,11 @@
 package 行为型模式.状态模式;
 
 /**
- * Created by echosun on 2017/5/17.
+ * 状态模式允许在内部修改对象的行为。与策略模式相比，状态的设置通过函数实现。
+ * 而策略模式通过构造函数保存，不能改变。
+ * Created by echosun.
+ * All rights reserved.
+ *
  */
 public class demo {
     public static void main(String[] args) {

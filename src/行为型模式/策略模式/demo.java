@@ -1,7 +1,9 @@
 package 行为型模式.策略模式;
 
 /**
- * Created by echosun on 2017/5/17.
+ * 通过上下文来调用具体策略的方法。常用在一个算法的不同变体。
+ * Created by echosun.
+ * All rights reserved.
  */
 public class demo {
     public static void main(String[] args) {

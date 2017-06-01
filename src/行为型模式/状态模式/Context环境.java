@@ -1,10 +1,11 @@
 package 行为型模式.状态模式;
 
 /**
- * Created by echosun on 2017/5/17.
+ * Created by echosun.
+ * All rights reserved.
  */
-public class Context环境 {
-    State抽象状态 state;
+class Context环境 {
+    private State抽象状态 state;
 
     void setSta(State抽象状态 in) {
         state = in;

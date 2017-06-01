@@ -1,12 +1,13 @@
 package 行为型模式.命令模式;
 
 /**
- * Created by echosun on 2017/5/17.
+ * Created by echosun.
+ * All rights reserved.
  */
 public class ConcreteCommand具体命令2 implements Command命令 {
-    Receiver接收者2 receiver;
+    private Receiver接收者2 receiver;
 
-    public ConcreteCommand具体命令2(Receiver接收者2 receiver) {
+    ConcreteCommand具体命令2(Receiver接收者2 receiver) {
         this.receiver = receiver;
     }
 

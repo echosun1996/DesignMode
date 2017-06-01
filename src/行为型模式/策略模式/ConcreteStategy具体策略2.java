@@ -1,7 +1,8 @@
 package 行为型模式.策略模式;
 
 /**
- * Created by echosun on 2017/5/17.
+ * Created by echosun.
+ * All rights reserved.
  */
 public class ConcreteStategy具体策略2 implements Strategy策略{
 
