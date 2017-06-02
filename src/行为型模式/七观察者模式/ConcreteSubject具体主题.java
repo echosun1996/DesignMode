@@ -8,10 +8,10 @@ import java.util.ArrayList;
  */
 public class ConcreteSubject具体主题 implements Subject主题 {
     private String mess;
-    private boolean changed;
-    private ArrayList<Observer观察者> list;
+    private boolean changed;//主题数据是否变化
+    private ArrayList<Observer观察者> list;//观察者列表
 
-    public ConcreteSubject具体主题() {
+    ConcreteSubject具体主题() {
         list = new ArrayList<>();
         mess = "";
         changed = false;
@@ -35,16 +35,15 @@ public class ConcreteSubject具体主题 implements Subject主题 {
     public void notifyObserver() {
         if (changed) {
             for (Observer观察者 observer : list) {
-                observer.hearTelephone(mess);
+                observer.hear(mess);
             }
             changed = false;
-
         }
     }
 
     @Override
     public void giveNewMess(String str) {
-        if (str.equals(mess))
+        if (str.equals(mess))//消息已经存在，不通知
             changed = false;
         else {
             mess = str;

@@ -10,6 +10,17 @@ public class ConcreteTemplate具体模板2 extends AbstractTemplate抽象模板 
     }
 
     @Override
+    public void printInfo() {
+        System.out.println("for DESC");
+    }
+
+    //重写钩子方法，不输出提示信息。
+    @Override
+    public boolean isInfo() {
+        return false;
+    }
+
+    @Override
     public void sort() {
         for (int i = 0; i < save.length - 1; i++) {
             for (int j = 0; j < save.length - i - 1; j++) {
@@ -24,10 +35,9 @@ public class ConcreteTemplate具体模板2 extends AbstractTemplate抽象模板 
 
     @Override
     public void printAll() {
-        System.out.println("for DESC");
         for (int aSave : save) {
             System.out.println(aSave);
         }
-
+        System.out.println("");
     }
 }
