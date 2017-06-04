@@ -4,32 +4,38 @@
     <bookmark url="file://$PROJECT_DIR$/README.md" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02341a74-1afb-451d-a791-e9957caf5c84" name="Default" comment="结构型模式5/7">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/一装饰模式/Component抽象组件.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteComponent具体组件.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/一装饰模式/Decorator装饰.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/一装饰模式/demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/三适配器模式/Adaptee被适配器.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/三适配器模式/Adapter适配器.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/三适配器模式/Target目标.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/三适配器模式/demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/二组合模式/Component抽象组件.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/二组合模式/Composite结点.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/二组合模式/Leaf结点.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/二组合模式/demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/五代理模式/Proxy代理.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/五代理模式/RealSubject实际主题.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/五代理模式/Subject抽象主题.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/五代理模式/demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/四外观模式/Facade外观.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/四外观模式/demo.java" />
+    <list default="true" id="02341a74-1afb-451d-a791-e9957caf5c84" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体构造者1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体构造者2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Creator构造者.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Product抽象产品.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/三生成器模式/demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/AbstractFactory抽象工厂.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品12.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品21.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品22.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/五单件模式/demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/创建型模式/四原型模式/demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/七桥接模式/Abstraction抽象.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/七桥接模式/Implementor实现者.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/七桥接模式/RefinedAbstraction细化抽象.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/七桥接模式/demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/六享元模式/FlyweightFactory享元工厂.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/结构型模式/六享元模式/Flyweight享元接口.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java" afterPath="$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,70 +50,7 @@
     <favorites_list name="DesignMode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subsystem子系统2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteDecorator具体装饰1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteDecorator具体装饰2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Composite结点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/结构型模式/二组合模式/Composite结点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/结构型模式/二组合模式/demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,47 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/行为型模式/观察者模式/demo.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/观察者模式/Subject主题.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/观察者模式/Observer观察者.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/观察者模式/ConcreteSubject具体主题.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/观察者模式/ConcreteObserver具体观察者.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteVisitor具体访问者.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/Visitor抽象访问者.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteElement具体元素.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/Element抽象元素.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/六模板方式模式/ConcreteTemplate具体模板1.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/六模板方式模式/ConcreteTemplate具体模板2.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/六模板方式模式/AbstractTemplate抽象模板.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/六模板方式模式/demo.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/Subject主题.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/Observer观察者.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteObserver具体观察者.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/demo.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteObserver具体观察者1.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteObserver具体观察者2.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteVisitor具体访问者1.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteVisitor具体访问者2.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteSubject具体主题.java" />
-        <option value="$PROJECT_DIR$/src/行为型模式/八访问者模式/demo.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/一装饰模式/Component抽象组件.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteComponent具体组件.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/一装饰模式/Decorator装饰.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/一装饰模式/demo.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/二组合模式/Composite节点.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/二组合模式/Leaf节点.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/二组合模式/Component抽象组件.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/二组合模式/Leaf结点.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/三适配器模式/Target目标.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/三适配器模式/Adaptee被适配器.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/三适配器模式/demo.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/三适配器模式/Adapter适配器.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/四外观模式/Facade外观.java" />
-        <option value="$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统1.java" />
         <option value="$PROJECT_DIR$/src/结构型模式/四外观模式/demo.java" />
         <option value="$PROJECT_DIR$/src/结构型模式/五代理模式/RealSubject实际主题.java" />
         <option value="$PROJECT_DIR$/src/结构型模式/五代理模式/demo.java" />
@@ -186,6 +88,47 @@
         <option value="$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰2.java" />
         <option value="$PROJECT_DIR$/src/结构型模式/二组合模式/Composite结点.java" />
         <option value="$PROJECT_DIR$/src/结构型模式/二组合模式/demo.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/六享元模式/Flyweight.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/Implementor是闲着.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/Implementor实现着.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/六享元模式/Flyweight享元接口.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/六享元模式/FlyweightFactory享元工厂.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/Abstraction抽象.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/Implementor实现者.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者1.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者2.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/RefinedAbstraction细化抽象.java" />
+        <option value="$PROJECT_DIR$/src/结构型模式/七桥接模式/demo.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Creator创造者.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体创造者.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体创造者1.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体构造者1.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体创造者2.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体构造者2.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Creator构造者.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品2.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/demo.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品1.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Product抽象产品.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品1.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品2.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/AbstractFactory抽象工厂.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂2.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品1.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品2.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品11.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/demo.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品21.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂1.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品12.java" />
+        <option value="$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品22.java" />
       </list>
     </option>
   </component>
@@ -219,8 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -247,8 +188,26 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="行为型模式" />
+              <option name="myItemId" value="DesignMode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignMode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="创建型模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="四原型模式" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,7 +225,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="结构型模式" />
+              <option name="myItemId" value="创建型模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="五单件模式" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,11 +247,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="结构型模式" />
+              <option name="myItemId" value="创建型模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignMode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignMode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="六享元模式" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="创建型模式" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="三生成器模式" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -326,6 +307,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,11 +326,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="创建型模式.二抽象工厂模式" />
+      <recent name="创建型模式.一工厂方法模式" />
+      <recent name="结构型模式.七桥接模式" />
       <recent name="结构型模式.四外观模式" />
       <recent name="结构型模式.一装饰模式" />
-      <recent name="行为型模式.七观察者模式" />
-      <recent name="行为型模式.八访问者模式" />
-      <recent name="行为型模式.模板方式模式" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -362,15 +345,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo">
-    <configuration default="false" name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.demo (4)">
+    <configuration default="false" name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="行为型模式.八访问者模式.*" />
+          <option name="PATTERN" value="结构型模式.五代理模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="行为型模式.八访问者模式.demo" />
+      <option name="MAIN_CLASS_NAME" value="结构型模式.五代理模式.demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignMode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="结构型模式.六享元模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="结构型模式.六享元模式.demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignMode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="结构型模式.七桥接模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="结构型模式.七桥接模式.demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -386,11 +409,11 @@
     <configuration default="false" name="demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="结构型模式.二组合模式.*" />
+          <option name="PATTERN" value="创建型模式.一工厂方法模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="结构型模式.二组合模式.demo" />
+      <option name="MAIN_CLASS_NAME" value="创建型模式.一工厂方法模式.demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -406,51 +429,11 @@
     <configuration default="false" name="demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="结构型模式.三适配器模式.*" />
+          <option name="PATTERN" value="创建型模式.二抽象工厂模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="结构型模式.三适配器模式.demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignMode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="demo (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="结构型模式.四外观模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="结构型模式.四外观模式.demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignMode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="结构型模式.五代理模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="结构型模式.五代理模式.demo" />
+      <option name="MAIN_CLASS_NAME" value="创建型模式.二抽象工厂模式.demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -867,19 +850,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.demo (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.demo (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.demo (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.demo (5)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.demo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.demo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.demo (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.demo (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.demo (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.demo (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.demo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.demo (5)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.demo (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.demo (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.demo (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.demo (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.demo (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.demo (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.demo (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -898,7 +881,8 @@
       <workItem from="1495181271585" duration="36000" />
       <workItem from="1496298483555" duration="15099000" />
       <workItem from="1496405307879" duration="15233000" />
-      <workItem from="1496539942526" duration="3204000" />
+      <workItem from="1496539942526" duration="15408000" />
+      <workItem from="1496587416034" duration="2971000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1496298606938</created>
@@ -928,32 +912,38 @@
       <option name="project" value="LOCAL" />
       <updated>1496412081013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="结构型模式5/7">
+      <created>1496546664301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1496546664301</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47423000" />
+    <option name="totallyTimeSpent" value="62598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34759358" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34759358" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37040818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.49233717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2129743" sideWeight="0.49233717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -991,219 +981,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/三命令模式/Command命令.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/四中介者模式/ConcreteMediator具体中介者.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/五责任链模式/ConcreteHandler具体处理者3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/一策略模式/Context上下文.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/五责任链模式/ConcreteHandler具体处理者2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/五责任链模式/ConcreteHandler具体处理者1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/三命令模式/ConcreteCommand具体命令1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/三命令模式/ConcreteCommand具体命令2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="794" column="20" lean-forward="true" selection-start-line="794" selection-start-column="20" selection-end-line="794" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/六模板方式模式/ConcreteTemplate具体模板2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/六模板方式模式/ConcreteTemplate具体模板1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/六模板方式模式/AbstractTemplate抽象模板.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/六模板方式模式/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/七观察者模式/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/七观察者模式/Subject主题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/七观察者模式/Observer观察者.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/八访问者模式/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteSubject具体主题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteVisitor具体访问者2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteVisitor具体访问者1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/八访问者模式/ConcreteElement具体元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/八访问者模式/Element抽象元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteObserver具体观察者2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/七观察者模式/ConcreteObserver具体观察者1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/行为型模式/八访问者模式/Visitor抽象访问者.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/装饰模式.java" />
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/Decorator装饰.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteComponent具体组件.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/Component抽象组件.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1211,9 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1221,10 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1232,10 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1259,10 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1277,10 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#156#157#0" expanded="false" />
-            <element signature="e#188#189#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1288,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1296,18 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1315,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1323,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1331,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1339,39 +1083,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java">
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/二组合模式/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="-72">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -1379,17 +1097,285 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/一装饰模式/ConcreteDecorator具体装饰1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/四外观模式/Subsystem子系统2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/六享元模式/ConcreteFlyweight具体享元.java" />
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/六享元模式/FlyweightFactory享元工厂.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/六享元模式/Flyweight享元接口.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/六享元模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/七桥接模式/RefinedAbstraction细化抽象.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/结构型模式/二组合模式/demo.java">
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="90">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/七桥接模式/Abstraction抽象.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/七桥接模式/ConcreteImplementor具体实现者2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/七桥接模式/Implementor实现者.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/四原型模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/五单件模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/三生成器模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/结构型模式/七桥接模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体构造者1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteCreator具体构造者2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/ConcreteProduct具体产品2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#162#163#0" expanded="false" />
+            <element signature="e#193#194#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Product抽象产品.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/一工厂方法模式/Creator构造者.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/AbstractFactory抽象工厂.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/Product抽象产品2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="29" lean-forward="false" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="58" lean-forward="false" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteFactory具体工厂1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="58" lean-forward="false" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+          <folding>
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/创建型模式/二抽象工厂模式/ConcreteProduct具体产品22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
